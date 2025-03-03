@@ -4,4 +4,4 @@ HW1: Compare different architectures of fully connected networks by using [UTKFa
 
 HW3: Part A is about defining a convolutional neural network to classify images of CIFAR-10 dataset and also show the two layers of feature maps, Part B is about adding Salt & Pepper noise to the images of dataset and then denoise them by a U-Net network.
 
-> HW2 doesn't have the coding part.
+> Note: HW2 doesn't have the coding part.

@@ -7,7 +7,7 @@ HW1: Compare different architectures of fully connected networks by using [UTKFa
 HW3: Part A is about defining a convolutional neural network to classify images of CIFAR-10 dataset and also showing the two layers of feature maps. Part B is about adding Salt & Pepper noise to the images and then denoise them by a U-Net network.
 
 ### Project
-In this project two datasets have been used: [CASIA V.1 - Normalized Images](https://drive.google.com/drive/folders/1PP7XMeDjpv5ya2joV-AceemvrJefDQxw) and CASIA V.1 - Feature Extracted Images]
+In this project, two datasets have been used: [CASIA V.1 - Normalized Images](https://drive.google.com/drive/folders/1PP7XMeDjpv5ya2joV-AceemvrJefDQxw) and [CASIA V.1 - Feature Extracted Images](https://drive.google.com/drive/folders/16_qJWCvOwtNcyL44niUeIwgvIJUciC8S)
 
 
 

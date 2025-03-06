@@ -20,7 +20,7 @@ Four models have been defined to learn these datasets and try to find the optimu
 
 As you can see in the project file, the CNN model shows the highest accuracy in both datasets.
 
-Also, there is a user interface with the help of the Gradio library in which you can give one of the images of datasets and it will show you its label.
+Also, there is a user interface with the help of the Gradio library in which you can give one of the images of datasets and the best model will show you its label.
 
 
 

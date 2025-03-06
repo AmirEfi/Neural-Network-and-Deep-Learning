@@ -11,6 +11,7 @@ HW3: Part A is about defining a convolutional neural network to classify images 
 ### Project
 
 In this project, two datasets have been used: [CASIA V.1 - Normalized Images](https://drive.google.com/drive/folders/1PP7XMeDjpv5ya2joV-AceemvrJefDQxw) and [CASIA V.1 - Feature Extracted Images](https://drive.google.com/drive/folders/16_qJWCvOwtNcyL44niUeIwgvIJUciC8S) in which both are about Iris images of 108 people. There are 3 pictures of the left eye and 4 pictures of the right eye for each person, leading to 756 photos total (648 train, 108 test).
+
 Four models have been defined to learn these datasets and try to find the optimum one:
 1. RBFNN
 2. CNN

@@ -18,6 +18,8 @@ Four models have been defined to learn these datasets and try to find the optimu
 3. Transfer Learning based on VGG16
 4. SOM + MLP
 
+As you can see in the project file, the CNN model shows the highest accuracy in both datasets.
+
 
 
 
